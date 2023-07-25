@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Registeration for DevOps Learning YSINGH FORM FILLUP DOCKER</h1>
+    <h1>New user Registeration for DevOps Learning</h1>
+    <h2>YSINGH FORM FILLUP DOCKER</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
